@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sites version="1">
+    <site>
+        <Name>www.dijibil.com</Name>
+        <Description>Online eğitim sitesi</Description>
+        <Category>Learning</Category>
+    </site>
+    <site>
+        <Name>www.cihanozhan.com</Name>
+        <Description>Kişisel blog sitesi</Description>
+        <Category>Blog</Category>
+    </site>
+    <site>
+        <Name>www.golang.org.tr</Name>
+        <Description>Go Türkiye Topluluğu</Description>
+        <Category>Community</Category>
+    </site>
+</sites>
